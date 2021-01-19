@@ -12,7 +12,7 @@ Sleek Template is [Overleaf](https://www.overleaf.com/) ready!
 
 1. Download the repository [archive](https://github.com/francois-rozet/sleek-template/archive/overleaf.zip)
 2. On your Overleaf project page, click **New Project** and choose **Upload Project**
-3. Drag or select the downloaded archive
+3. Drag or select the downloaded archive ...
 4. Rename the project
 5. Enjoy :ok_hand:
 
