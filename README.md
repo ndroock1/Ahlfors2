@@ -8,7 +8,7 @@ For more information about the packages, settings, environments, commands, etc.,
 
 ## Overleaf :leaves:
 
-Sleek Template is [Overleaf](https://www.overleaf.com/) ready!
+Sleek ... Template is [Overleaf](https://www.overleaf.com/) ready!
 
 1. Download the repository [archive](https://github.com/francois-rozet/sleek-template/archive/overleaf.zip)
 2. On your Overleaf project page, click **New Project** and choose **Upload Project**
